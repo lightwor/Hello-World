@@ -1,2 +1,4 @@
 # Hello-World
-Stupid
+Smile
+Peace
+What!
